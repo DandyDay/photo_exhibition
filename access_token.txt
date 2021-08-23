@@ -1,0 +1,5 @@
+https://graph.instagram.com/refresh_access_token
+  ?grant_type=ig_refresh_token
+  &access_token=IGQVJYMFRRZAHh5VjFramtDcm1XUk5QMlFCSVNHQWwtNUthbm5XT1RhUmhlVElzbGwyellnbGw1dXloUW5FMXJtNnpJVm53d2g3SjFDNjNMNGNTSlhMUk9YZAFhKTGZATMWlUeDlZATk1n
+
+보내면 갱신됨.
